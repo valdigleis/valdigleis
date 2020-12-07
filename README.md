@@ -1,4 +1,4 @@
-## Hey! I am Valdigleis, nice to meet you! 👋
+# Hey! I am Valdigleis, nice to meet you! 👋
 
 <!--
 **valdigleis/valdigleis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,10 @@ Here are some ideas to get you started:
 
 ## About me!!!
 
-- 🔭 I’m currently working on [Universidade Federal do Vale do São Francisco](https:www.univasf.edu.br) in Salgueiro, my research interests include: Automata theory, Complexity theory, Formal specification and verification, Fuzzy sets, Logics, and Signal processing.
-- 🌱 I’m currently learning how to use [Lean Theorem Prover](https://leanprover.github.io) in undergraduate classroom.
-- 👯 I’m looking to collaborate on [ALiCIA Group](http://alicia.group)
-- 📫 To write me: valdigleis.costa@univasf.edu.br
+🔭 I’m currently working on [Universidade Federal do Vale do São Francisco](https:www.univasf.edu.br) in Salgueiro, my research interests include: Automata theory, Complexity theory, Formal specification and verification, Fuzzy sets, Logics, and Signal processing. Besides, I'm a PhD candidate at PPGSC/DIMAp under the supervision of Benjamin Rene Callejas Bedregal and Regivan Hugo Nunes Santiago.
+
+🌱 I’m currently learning how to use [Lean Theorem Prover](https://leanprover.github.io) in undergraduate classroom.
+
+👯 I’m looking to collaborate on [ALiCIA Group](http://alicia.group) and department of computer science at [Univasf](https:www.univasf.edu.br/ccicomp).
+
+📫 To write me: valdigleis.costa@univasf.edu.br
