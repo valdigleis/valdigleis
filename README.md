@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning how to use [Lean Theorem Prover](https://leanprover.github.io) in undergraduate classroom.
 
-👯 I’m looking to collaborate on [ALiCIA Group](https://github.com/grupo-alicia) and department of computer science at [Univasf].
+👯 I’m looking to collaborate on [ALiCIA Group](https://github.com/grupo-alicia).
 
 📫 To write me: valdigleis.costa@univasf.edu.br
