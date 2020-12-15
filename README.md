@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 
 ## About me!!!
 
-🔭 I’m currently working on Universidade Federal do Vale do São Francisco in Salgueiro, my research interests include: Automata theory, Complexity theory, Formal specification and verification, Fuzzy sets, Logics, and Signal processing.
-
-I received my Phd at PPGSC/DIMAp under the supervision of Benjamin Rene Callejas Bedregal and Regivan Hugo Nunes Santiago.
+🔭 I received my Phd at PPGSC/DIMAp under the supervision of Benjamin Rene Callejas Bedregal and Regivan Hugo Nunes Santiago. I’m currently working on Universidade Federal do Vale do São Francisco in Salgueiro, my research interests include: Automata theory, Complexity theory, Formal specification and verification, Fuzzy sets, Logics, and Signal processing.
 
 🌱 I’m currently learning how to use [Lean Theorem Prover](https://leanprover.github.io) in undergraduate classroom.
 
