@@ -23,7 +23,9 @@ Hello, humans! I'm Valdigleis (called Dk4LL in Unix-like communities in Brazil),
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=valdigleis&show_icons=true">
 </picture>
 
+-   :pencil2: C / C++ / (La)TeX / OCaml / Haskell / Java(Type)Script / Java / Python / Prolog / Coq / Lean
 
+-   :package: [Debian](https://www.debian.org) / [KDE](https://kde.org/) / [neovim](https://neovim.io/) / [Firefox](https://www.mozilla.org/firefox/)
 
-
+-   :seedling: Teaching **Classical Logic**, **Automata Theory** and **Formal Verification** in 2024.
 
