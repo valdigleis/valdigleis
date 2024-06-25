@@ -29,5 +29,5 @@ I'm Valdigleis (called Dk4LL in Unix-like communities in Brazil), a [Flamengo](h
 
 -   :seedling: Teaching **Classical Logic**, **Automata Theory** and **Formal Verification** in 2024.
 
--   :🔭: Researching **Non-classical automata theory**
+-   :telescope: Researching **Non-classical automata theory**
 
