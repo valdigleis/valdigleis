@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Valdigleis (called Dk4LL in Unix-like communities in Brazil), a [Flamengo](https://www.flamengo.com.br) fan, former programmer, used and collaborator of the [Debian](https://www.debian.org/) project. Currently, I'm a computer science teacher at [CCICOMP](https://portais.univasf.edu.br/ccicomp) of the [Univasf](https://www.univasf.edu.br) - Brazil.
+I'm Valdigleis, a [Flamengo](https://www.flamengo.com.br) fan, former programmer, used and collaborator of the [Debian](https://www.debian.org/) project. Currently, I'm a computer science teacher at [CCICOMP](https://portais.univasf.edu.br/ccicomp) of the [Univasf](https://www.univasf.edu.br) - Brazil.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-valdigleis.vercel.app/api?username=valdigleis&theme=dark&show_icons=true">
