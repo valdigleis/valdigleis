@@ -25,7 +25,7 @@ I'm Valdigleis (Dk4LL), a [Flamengo](https://www.flamengo.com.br) fan, former pr
 
 -   :pencil2: C / C++ / (La)TeX / OCaml / Haskell / Java(Type)Script / Java / Python / Prolog / Coq / Lean
 
--   :package: [Debian](https://www.debian.org) / [XFCE](https://xfce.org/) / [NeoVim](https://neovim.io/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/)
+-   :package: [Debian](https://www.debian.org) / [XFCE](https://xfce.org/) / [NeoVim](https://neovim.io/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [ZShell](https://www.zsh.org/)
 
 -   :seedling: Teaching (*in 2024*): **Classical Logic**, **Automata Theory** and **Formal Verification**.
 
