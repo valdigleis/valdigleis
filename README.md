@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Valdigleis (Dk4LL), a [Flamengo](https://www.flamengo.com.br) fan, former programmer, user and collaborator of the [Debian](https://www.debian.org/) project. Currently, I'm a computer science teacher at [CCICOMP](https://portais.univasf.edu.br/ccicomp) of the [Univasf](https://www.univasf.edu.br) - Brazil.
+I'm Valdigleis (Dk4LL), a [Flamengo](https://www.flamengo.com.br) fan, former programmer, user and ex-collaborator of the [Debian](https://www.debian.org/) project. Currently, I'm a computer science teacher at [CCICOMP](https://portais.univasf.edu.br/ccicomp) of the [Univasf](https://www.univasf.edu.br) - Brazil.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-valdigleis.vercel.app/api?username=valdigleis&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=valdigleis&show_icons=true">
 </picture>
 
--   :pencil2: C / C++ / (La)TeX / OCaml / Haskell / Java(Type)Script / Java / Python / Prolog / Coq / Lean
+-   :pencil2: C / C++ / (La)TeX / OCaml / Haskell / Java(Type)Script / Java / Python / Prolog / Coq / Lean / HTML / CSS
 
 -   :package: [Debian](https://www.debian.org) / [XFCE](https://xfce.org/) / [NeoVim](https://neovim.io/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [ZShell](https://www.zsh.org/)
 
