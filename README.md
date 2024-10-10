@@ -23,9 +23,9 @@ I'm Valdigleis (Dk4LL), a [Flamengo](https://www.flamengo.com.br) fan, former pr
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=valdigleis&show_icons=true">
 </picture>
 
--   :pencil2: C / C++ / (La)TeX / OCaml / Haskell / Java(Type)Script / Java / Python / Prolog / Coq / Lean / HTML / CSS
+-   :pencil2: C / C++ / (La)TeX / OCaml / Haskell / Java(Type)Script / Java / Python / HTML / CSS / Prolog / Coq / Lean
 
--   :package: [Arch Linux](https://archlinux.org/) / [Vim](https://www.vim.org/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [ZShell](https://www.zsh.org/)
+-   :package: [Pop!_OS](https://pop.system76.com/) / [Vim](https://www.vim.org/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [ZShell](https://www.zsh.org/)
 
 -   :seedling: Teaching (*in 2024*): **Classical Logic**, **Automata Theory** and **Formal Verification**.
 
