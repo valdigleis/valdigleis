@@ -25,7 +25,7 @@ I'm Valdigleis, a [Peanuts](https://www.peanuts.com/) fan, former software engin
 
 -   :pencil2: C / C++ / (La)TeX / OCaml / Haskell / Java(Type)Script / Java / Python / HTML / CSS / PHP / Prolog / Coq / Lean
 
--   :package: [Debian](https://debian.org/) / [Vim](https://www.vim.org/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [ZShell](https://www.zsh.org/)
+-   :package: [Debian](https://debian.org/) / [NeoVim](https://www.neovim.io/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [ZShell](https://www.zsh.org/)
 
 -   :seedling: Teaching (*in 2024*): **Classical Logic**, **Automata Theory** and **Formal Verification**.
 
