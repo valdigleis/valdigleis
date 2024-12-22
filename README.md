@@ -27,7 +27,7 @@ I'm Valdigleis, a [Peanuts](https://www.peanuts.com/) fan, former software engin
 
 -   :package: [Debian](https://debian.org) / [NeoVim](https://www.neovim.io/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [ZShell](https://www.zsh.org/) 
 
--   :seedling: Teaching (*in 2024*): **Classical Logic**, **Automata Theory** and **Formal Verification**.
+-   :seedling: Teaching (*in 2025*): **Wait...**.
 
 -   :telescope: Researching **Non-classical Automata Theory**
 
