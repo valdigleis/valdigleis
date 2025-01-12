@@ -25,7 +25,7 @@ I'm Valdigleis, a [Peanuts](https://www.peanuts.com/) fan, former software engin
 
 -   :pencil2: C / C++ / (La)TeX / OCaml / Haskell / Java(Type)Script / Java / Python / HTML / CSS / PHP / Prolog / Coq / Lean
 
--   :package: [Pop!_OS](https://pop.system76.com/) / [NeoVim](https://www.neovim.io/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [ZShell](https://www.zsh.org/) 
+-   :package: [Xubuntu](https://xubuntu.org/) / [NeoVim](https://www.neovim.io/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [Bash](https://www.gnu.org/software/bash/) 
 
 -   :seedling: Teaching (*in 2025*): **Wait...**.
 
