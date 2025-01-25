@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Valdigleis, a [Peanuts](https://www.peanuts.com/) fan, former software engineer. Currently, I'm a computer science teacher at [DIMAp](https://dimap.ufrn.br/)-[UFRN](https://ufrn.br/), previously at [CCICOMP](https://portais.univasf.edu.br/ccicomp) of the [Univasf](https://www.univasf.edu.br) - Brazil.
+I'm Valdigleis, a {[Peanuts](https://www.peanuts.com/), [Asterix](https://asterix.com/)} fan, former software engineer. Currently, I'm a computer science teacher at [DIMAp](https://dimap.ufrn.br/)-[UFRN](https://ufrn.br/), previously at [CCICOMP](https://portais.univasf.edu.br/ccicomp) of the [Univasf](https://www.univasf.edu.br) - Brazil.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-valdigleis.vercel.app/api?username=valdigleis&theme=dark&show_icons=true">
