@@ -25,7 +25,7 @@ I'm Valdigleis, a {[Peanuts](https://www.peanuts.com/), [Asterix](https://asteri
 
 -   :pencil2: C / C++ / (La)TeX / OCaml / Haskell / Java(Type)Script / Java / Python / HTML / CSS / PHP / Prolog / Coq / Lean
 
--   :package: [Debian](https://www.debian.org/) / [NeoVim](https://www.neovim.io/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [Bash](https://www.gnu.org/software/bash/) 
+-   :package: [Ubuntu](https://ubuntu.com/) / [NeoVim](https://www.neovim.io/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [Bash](https://www.gnu.org/software/bash/) 
 
 -   :seedling: Teaching (*in 2025*): **Wait...**.
 
