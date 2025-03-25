@@ -27,7 +27,7 @@ I'm Valdigleis, a {[Peanuts](https://www.peanuts.com/), [Asterix](https://asteri
 
 -   :package: [Ubuntu](https://ubuntu.com/) / [NeoVim](https://www.neovim.io/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [Bash](https://www.gnu.org/software/bash/) 
 
--   :seedling: Teaching (*in 2025*): **Wait...**.
+-   :seedling: Teaching (*in 2025*): DIM0116, DIM0117, and DIM0319.
 
 -   :telescope: Researching **Non-classical Automata Theory**
 
