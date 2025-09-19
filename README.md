@@ -23,19 +23,10 @@ I'm Valdigleis, a {[Peanuts](https://www.peanuts.com/), [Asterix](https://asteri
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=valdigleis&show_icons=true">
 </picture>
 
--   :pencil2: Java / HTML / CSS / PHP / Prolog / Coq / Lean / C / C++ / (La)TeX / OCaml / Haskell / Java(Type)Script / Python
+-   :pencil2: Java / HTML / CSS / PHP / Prolog / Coq / Lean / C / C++ / (La)TeX / OCaml / Haskell / Java(Pure)Script / Python
 
 -   :package: [Ubuntu](https://ubuntu.com/) / [Vim](https://www.vim.org/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [Bash](https://www.gnu.org/software/bash/) 
 
 -   :seedling: Teaching (*in 2025*): DIM0116, DIM0117, and DIM0319.
 
 -   :telescope: Researching **Non-classical Automata Theory**
-
-<details>
-  <summary>Favorite technologies ⚡</summary>
-  ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-  ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-  ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-  [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
-
-</details>
