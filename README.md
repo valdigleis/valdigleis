@@ -23,7 +23,7 @@ I'm Valdigleis, a {[Peanuts](https://www.peanuts.com/), [Asterix](https://asteri
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=valdigleis&show_icons=true">
 </picture>
 
--   :pencil2: Java / HTML / CSS / PHP / Prolog / Coq / Lean / C / C++ / (La)TeX / OCaml / Haskell / Java(Pure)Script / Python
+-   :pencil2: Java / HTML / CSS / PHP / Prolog / Coq / C / C++ / (La)TeX / OCaml / Java(Pure)Script / Python
 
 -   :package: [Ubuntu](https://ubuntu.com/) / [Vim](https://www.vim.org/) / [Firefox](https://www.mozilla.org/firefox/) / [Kitty](https://sw.kovidgoyal.net/kitty/) / [Bash](https://www.gnu.org/software/bash/) 
 
