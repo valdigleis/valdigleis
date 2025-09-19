@@ -32,8 +32,7 @@ I'm Valdigleis, a {[Peanuts](https://www.peanuts.com/), [Asterix](https://asteri
 -   :telescope: Researching **Non-classical Automata Theory**
 
 <details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#" align="left" width="50%">![Github stats](https://github-readme-stats.vercel.app/api?username=valdigleis&theme=blueberry&count_private=true&hide_border=true&line_height=25)</a>
-  <a href="#" align="right" width="50%">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdigleis&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <summary>Favorite technologies ⚡</summary>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 </details>
